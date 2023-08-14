@@ -55,16 +55,15 @@
       "type": "customField",
       "customField": "plugin::oembed.oembed"
     },
-    "category": {
+    "section": {
       "type": "enumeration",
       "enum": [
-        "Las notas sueltas",
-        "El lleva y trae",
-        "Lo que suena",
-        "Noticias"
+        "las-notas-sueltas",
+        "el-lleva-y-trae",
+        "lo-que-suena",
+        "noticias"
       ],
-      "required": true,
-      "default": "Noticias"
+      "required": true
     }
   }
 }

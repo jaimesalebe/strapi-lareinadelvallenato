@@ -64,6 +64,15 @@
         "noticias"
       ],
       "required": true
+    },
+    "InstagramPostID": {
+      "type": "string"
+    },
+    "TweeterPostID": {
+      "type": "string"
+    },
+    "FacebookPostURL": {
+      "type": "string"
     }
   }
 }
